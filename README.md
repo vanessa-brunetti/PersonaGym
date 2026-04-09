@@ -1,6 +1,10 @@
 # PersonaGym
+ PersonaGym
 
 ![Task](pipeline.jpg)
+![Task](pipeline.jpg)
+
+
 
 This repository contains the dataset and code of the paper:
 > **PersonaGym: Evaluating Persona Agents and LLMs** 
